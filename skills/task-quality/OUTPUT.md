@@ -16,7 +16,7 @@ English labels:
 - Field: Check
 - Closing: Wording that makes both verdicts READY
 
-A missing product fact is a blank in square brackets. The blank names the hole. A quote is copied from the text. One failed check, one quote. A check that passes does not appear.
+A missing product fact is a blank in square brackets. The blank names the hole. A quote is copied from the text. One failed check, one quote. A check that passes does not appear. The number of bullets equals the number of failed checks. A NOT READY verdict with no bullet for that verdict is wrong.
 
 ## Both READY
 

@@ -2,7 +2,7 @@
 
 Spelling out the work does not make the wording ready. The text never says who it is for, two outcomes share the story, and one sentence holds three assertions.
 
-These three skills score that wording. They reply with a verdict and a rewrite, and they leave the tracker alone. Paste the text, or point at a body the chat already has. GitHub, GitLab, Jira, and a local file all work the same way, because the skills never call the tracker.
+These three skills score that wording. They reply with a verdict and a rewrite, and they leave the tracker alone. Paste the text, or point at a body the chat already has. When steps, expected behavior, actual behavior, or environment live in their own fields, paste those values with the description. GitHub, GitLab, Jira, and a local file all work the same way, because the skills never call the tracker.
 
 ## Install
 

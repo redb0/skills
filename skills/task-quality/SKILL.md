@@ -6,7 +6,7 @@ disable-model-invocation: true
 
 # Task quality
 
-The wording under review is already in the conversation. When that body is not in reach, ask for the text and stop.
+The wording under review is already in the conversation. When steps, expected behavior, actual behavior, or environment live in their own fields, those values are part of the wording. When that body is not in reach, ask for the text and stop.
 
 `change-wording` and `bug-wording` are model-invoked so this skill can run the matching one. This skill is user-invoked so one name is enough to remember.
 
